@@ -27,7 +27,7 @@ Setting up the Metasploit Framework (MSF) on Android via Termux often fails due 
 
 3.  **Run the installer:**
     ```bash
-    chmod +x msfinstall_v1.1.2.sh
+    chmod +x msfinstall.sh
     ./msfinstall.sh
     ```
 
